@@ -92,9 +92,11 @@ Left                                   |  Center                   |  Right
 ![Sample Left](./examples/left_img.jpg) | ![Sample Center](./examples/center_img.jpg)|![Sample Left](./examples/right_img.jpg)
 
 The simulator also created a log file while recording,each row in this sheet correlates image paths with corresponding **steering angle**, **throttle**, **brake**, and **speed** of the car. 
+
 ![log](./examples/sample_log.jpg)
 
 * Data exploratory
+
 ![hist](./examples/hist_img.jpg)
 
 This histogram showed us that most values of steering angle were located at **0**.
