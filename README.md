@@ -95,7 +95,7 @@ The simulator also created a log file while recording,each row in this sheet cor
 
 ![log](./examples/sample_log.jpg)
 
-* Data exploratory
+### Data exploratory
 
 ![hist](./examples/hist_img.jpg)
 
