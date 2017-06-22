@@ -96,6 +96,7 @@ The simulator also created a log file while recording,each row in this sheet cor
 
 * Data exploratory
 ![hist](./examples/hist_img.jpg)
+
 This histogram showed us that most values of steering angle were located at **0**.
 
 
